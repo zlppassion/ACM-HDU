@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564821989 source:e:\zlpacmtraining\upgrading technology\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

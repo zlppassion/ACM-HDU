@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554825358 source:e:\zlpacmtraining\lightoj_1027correct\main.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<algorithm>
+

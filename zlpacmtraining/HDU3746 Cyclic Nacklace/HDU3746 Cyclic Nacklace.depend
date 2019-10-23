@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543040671 source:e:\zlpacmtraining\hdu3746 cyclic nacklace\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<map>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557048124 source:e:\zlpacmtraining\gg\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

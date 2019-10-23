@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555071691 source:e:\zlpacmtraining\yusai13_b\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

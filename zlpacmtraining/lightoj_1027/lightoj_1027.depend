@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554825236 source:e:\zlpacmtraining\lightoj_1027\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

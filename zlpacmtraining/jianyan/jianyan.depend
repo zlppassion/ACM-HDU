@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542865054 source:e:\zlpacmtraining\jianyan\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

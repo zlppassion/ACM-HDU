@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542881852 source:e:\zlpacmtraining\hdu1711 number sequences\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

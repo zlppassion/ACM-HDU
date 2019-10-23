@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556367973 source:e:\zlpacmtraining\oi9_c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

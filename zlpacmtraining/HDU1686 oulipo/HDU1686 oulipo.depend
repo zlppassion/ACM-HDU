@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542949192 source:e:\zlpacmtraining\hdu1686 oulipo\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

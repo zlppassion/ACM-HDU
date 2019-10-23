@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557322245 source:e:\zlpacmtraining\1\main.cpp
+	"stdio.h"
+	"string.h"
+	"queue"
+
